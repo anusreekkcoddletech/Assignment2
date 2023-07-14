@@ -41,6 +41,6 @@ span{
 .row-div p{
     font-size: 25px;
 }
-.overflow{
-    overflow: hidden;
-}
+* {
+    box-sizing: border-box;
+  }
