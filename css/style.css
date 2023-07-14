@@ -28,18 +28,18 @@ span{
     padding: 5%;
 }
 .row-div img{
-    width: 30%;
-    height: 10%;
+    width: 45%;
+    height: 25%;
 }
 .row-div a{
     color: black;
-    font-size: 30px;
+    font-size: 35px;
 }
 .row-div h2{
-    font-size: 40px;
+    font-size: 45px;
 }
 .row-div p{
-    font-size: 25px;
+    font-size: 30px;
 }
 * {
     box-sizing: border-box;
