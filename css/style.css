@@ -1,46 +1,47 @@
+* {
+    box-sizing: border-box;
+  }
 .text1 {
     color: #9d8180;
     text-align: center;
     font-size: 50px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:Segoe UI;
 }
 .text2 {
     text-align: center;
     font-size: 25px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Segoe UI;
 }
-.row-div {
+.first-div {
     display: flex;
     background-color: #edf1f4;
     width: 100%;
-    padding: 5%;
+    padding: 8%;
+}
+.first-div img{
+    width: 43%;
+    height: 15%;
+}
+.second-div{
+    padding-left: 4%;
+    font-family: Segoe UI;
+}
+.text3{
+    font-size: 35px;
 }
 span{
     color:#d6846f;
 }
-.text{
-    padding-left: 4%;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+.text4{
+    font-size: 23px;
 }
-.image-assign2 img{
+.second-div a{
+    color: black;
+    font-size: 25px;
+}
+.Third-div img{
     width: 100%;
     height: 100%;
     padding: 5%;
 }
-.row-div img{
-    width: 45%;
-    height: 25%;
-}
-.row-div a{
-    color: black;
-    font-size: 35px;
-}
-.row-div h2{
-    font-size: 45px;
-}
-.row-div p{
-    font-size: 30px;
-}
-* {
-    box-sizing: border-box;
-  }
+
